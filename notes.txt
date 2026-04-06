@@ -8,3 +8,4 @@ git reset --soft HEAD~1
 haha
 
 banana
+git revert
