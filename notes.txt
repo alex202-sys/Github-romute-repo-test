@@ -4,3 +4,4 @@ git add notes.txt
 git commit -m "your commit massage"
 git status // zusätzlich eingefügt
 git reset --soft HEAD~1 
+fdfdfd
